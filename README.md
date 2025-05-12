@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner-github.png" alt="Banner de Hudson Júnior">
+</p>
 <h1 align="center">Olá, eu sou o Hudson Júnior!</h1>
 
 <p align="center">
