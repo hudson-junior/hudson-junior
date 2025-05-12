@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Banner de Hudson Júnior" width=35%>
+  <img src="Banner.png" alt="Banner de Hudson Júnior" width=50%>
 </p>
 
 <h1 align="center">Olá, eu sou o Hudson Júnior!</h1>
