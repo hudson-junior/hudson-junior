@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Banner.png" alt="Banner de Hudson Júnior">
-</p>
-
 <h1 align="center">Olá, eu sou o Hudson Júnior!</h1>
 
 <p align="center">
@@ -47,8 +43,8 @@
 ## 📊 Meus status no GitHub:
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hudson-junior&show_icons=true&theme=default&count_private=true&hide_rank=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-junior&layout=compact&langs_count=7&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hudson-junior&show_icons=true&theme=nightowl&count_private=true&hide_rank=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-junior&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
@@ -100,6 +96,6 @@
 ## 📊 My GitHub Stats:
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hudson-junior&show_icons=true&theme=default&count_private=true&hide_rank=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-junior&layout=compact&langs_count=7&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hudson-junior&show_icons=true&theme=nightowl&count_private=true&hide_rank=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-junior&layout=compact&langs_count=7&theme=dracula"/>
 </p>
