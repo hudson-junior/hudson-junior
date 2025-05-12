@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Banner de Hudson Júnior">
+  <img src="Banner.png" alt="Banner de Hudson Júnior" width=35%>
 </p>
 
 <h1 align="center">Olá, eu sou o Hudson Júnior!</h1>
@@ -52,9 +52,7 @@
 </p>
 
 ---
-<p align='center'>
 ## 🌍 English Version
-</p>
 
 <h1 align="center">Hi, I'm Hudson Júnior!</h1>
 
