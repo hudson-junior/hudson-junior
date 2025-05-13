@@ -48,7 +48,7 @@
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hudson-junior&show_icons=true&theme=nightowl&count_private=true&hide_rank=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-junior&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-junior&layout=compact&langs_count=7&theme=nightowl"/>
 </p>
 
 ---
@@ -100,5 +100,5 @@
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hudson-junior&show_icons=true&theme=nightowl&count_private=true&hide_rank=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-junior&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-junior&layout=compact&langs_count=7&theme=nightowl"/>
 </p>
